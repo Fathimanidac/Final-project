@@ -1,4 +1,4 @@
-# Final-project
+# Netflix Final-project
 Netflix Data Analysis
 
 This project analyzes how Netflix builds and manages its global content library. The findings show that movies make up the majority of the platform, supported by a broad collection of TV shows. The United States and India are the top content-producing countries, and Netflix largely targets mature audiences through ratings like TV-MA and TV-14. The weak correlation between release year and the year content was added reveals that Netflix does not only focus on newly released titles; instead, it adds content based on regional demand, licensing availability, and the popularity of evergreen titles. Overall, the analysis highlights Netflix’s strategy of offering diverse international content, maintaining strong partnerships with consistent directors, and balancing casual movie viewing with long-form TV series to attract and retain a global audience.
